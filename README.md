@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=dimlycore&color=FFFFFF)
+![Profile views](https://komarev.com/ghpvc/?username=dimlycore&color=D17689)
 
 
 
