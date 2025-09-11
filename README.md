@@ -1,4 +1,4 @@
-
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/TenGithub&count_bg=%23007EC6&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false&start=99999)
 
 
 
