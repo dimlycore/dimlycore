@@ -1,4 +1,4 @@
-
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/dimlycore&title=Profile%20views&count_bg=%23B2DAEF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&edge_flat=false)
 
 
 
