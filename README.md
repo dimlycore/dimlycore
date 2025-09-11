@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dimlycore&color=F690A1)
 
-![☆](https://i.ibb.co/FLhY7vKK/7cd5c8384a119f2eacf181b3f02d63b1.gif)
+<img src="https://i.ibb.co/FLhY7vKK/7cd5c8384a119f2eacf181b3f02d63b1.gif" width="200">
 
 <!--
 **dimlycore/dimlycore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
