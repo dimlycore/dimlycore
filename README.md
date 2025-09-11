@@ -1,8 +1,4 @@
-<!-- Real badge (auto-increasing, hidden for now) -->
-<!-- ![Profile views](https://api.visitorbadge.io/api/visitors?path=github.com/silverrose&label=Profile%20views&countColor=%23f17a87) -->
 
-<!-- Fake badge (static number, looks big & real) -->
-<img src="https://img.shields.io/badge/Profile%20views-92,768-ff69b4?style=for-the-badge" />
 
 
 
