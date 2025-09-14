@@ -1,8 +1,6 @@
-![](https://komarev.com/ghpvc/?username=dimlycore&color=A3AFCC&label=♡) 
-<img src="https://i.ibb.co/W470zKcJ/7463d78d184c43bb878ee9b63d5e8652.gif" width="120">
+![](https://komarev.com/ghpvc/?username=dimlycore&color=A3AFCC&label=♡)
 
-<img src="https://i.ibb.co/FLhY7vKK/7cd5c8384a119f2eacf181b3f02d63b1.gif" width="280">
-
+<img src="https://i.ibb.co/W470zKcJ/7463d78d184c43bb878ee9b63d5e8652.gif" width="110">
 <!--
 **dimlycore/dimlycore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
