@@ -1,6 +1,7 @@
+<img src="https://i.ibb.co/W470zKcJ/7463d78d184c43bb878ee9b63d5e8652.gif" width="110">
 ![](https://komarev.com/ghpvc/?username=dimlycore&color=A3AFCC&label=♡)
 
-<img src="https://i.ibb.co/W470zKcJ/7463d78d184c43bb878ee9b63d5e8652.gif" width="110">
+
 <!--
 **dimlycore/dimlycore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
