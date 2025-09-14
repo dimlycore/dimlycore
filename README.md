@@ -1,4 +1,4 @@
-![☆](https://komarev.com/ghpvc/?username=dimlycore&color=A3AFCC) 
+![hi ya](https://komarev.com/ghpvc/?username=dimlycore&color=A3AFCC) 
 <img src="https://i.ibb.co/W470zKcJ/7463d78d184c43bb878ee9b63d5e8652.gif" width="120">
 
 <img src="https://i.ibb.co/FLhY7vKK/7cd5c8384a119f2eacf181b3f02d63b1.gif" width="280">
